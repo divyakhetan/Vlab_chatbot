@@ -1,0 +1,15 @@
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"> -->
+
+<h4>MEDIA LINKS</h4>
+<hr>
+
+<a href="pdfs/P0.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P1.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P2.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P3.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P4.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P5.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P6.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P7.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P8.pdf" target="_blank">PDF</a> <br>
+<a href="pdfs/P9.pdf" target="_blank">PDF</a> <br>
